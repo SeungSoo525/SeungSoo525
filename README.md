@@ -30,10 +30,7 @@ Tools and Technologies:
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-<a href="https://github.com/SeungSoo525/SeungSoo525">
-  <img align="center" src="https://SeungSoo525.vercel.app/api/pin/?username=SeungSoo525&repo=SeungSoo525" />
-</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)(https://github.com/SeungSoo525/github-readme-stats)
+![SSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact)](https://github.com/seungsoo525/github-readme-stats)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
