@@ -30,4 +30,7 @@ Tools and Technologies:
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
+[![SSS's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeungSoo525&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SeungSoo525/github-readme-stats#gh-dark-mode-only)
+[![SSS's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SeungSoo525&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SeungSoo525/github-readme-stats#gh-light-mode-only)
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
