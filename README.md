@@ -6,14 +6,25 @@
 
 ### About me
 
-* 리스트 1
-* 리스트 2
-* 리스트 3
+- 리스트 1
+- 리스트 2
+- 리스트 3
 
-### 
+### Skills:
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=seungsoo525" height="165">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact" height="165">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)](https://github.com/SeungSoo525/github-readme-stats)
+Languages:
+![Java](https://img.shields.io/badge/Java-#F37C20.svg?)
+![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-#0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+
+IDEs:
+![VS](https://img.shields.io/badge/Visual%20Studio-#5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![AS](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-#000000.svg?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)
+
+Tools and Technologies:
+![Git](https://img.shields.io/badge/Git-#F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
