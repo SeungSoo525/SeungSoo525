@@ -34,6 +34,6 @@ Tools and Technologies:
   <img align="center" src="https://SeungSoo525.vercel.app/api/pin/?username=SeungSoo525&repo=SeungSoo525" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)(https://github.com/SeungSoo525/github-readme-stats)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
