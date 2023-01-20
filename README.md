@@ -4,4 +4,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shinseungsoo525@gmail.com)
 
+### About me
+
+* 리스트 1
+* 리스트 2
+* 리스트 3
+
+### 
+
+![SeungSoo525's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungSoo525&show_icons=true&theme=transparent)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
