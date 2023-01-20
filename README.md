@@ -12,7 +12,8 @@
 
 ### 
 
-![SeungSoo525's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungSoo525&show_icons=true&theme=transparent)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=seungsoo525" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact" height="165">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)](https://github.com/SeungSoo525/github-readme-stats)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
