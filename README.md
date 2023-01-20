@@ -31,7 +31,7 @@ Tools and Technologies:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 <a href="https://github.com/SeungSoo525/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeungSoo525&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeungSoo525" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)](https://github.com/SeungSoo525/github-readme-stats)
