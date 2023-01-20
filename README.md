@@ -13,4 +13,6 @@
 ### 
 
 ![SeungSoo525's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungSoo525&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)](https://github.com/SeungSoo525/github-readme-stats)
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
