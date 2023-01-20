@@ -13,7 +13,7 @@
 ### Skills:
 
 Languages:
-![Java](https://img.shields.io/badge/Java-#F37C20.svg?)
+![Java](https://img.shields.io/badge/Java-#F37C20.svg?style=for-the-badge&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-#0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
