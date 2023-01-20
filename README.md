@@ -16,8 +16,8 @@ Languages:
 
 ![Java](https://img.shields.io/badge/Java-F37C20.svg?style=for-the-badge&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 
 IDEs:
 
@@ -34,6 +34,6 @@ Tools and Technologies:
   <img align="center" src="https://SeungSoo525.vercel.app/api/pin/?username=SeungSoo525&repo=SeungSoo525" />
 </a>
 
-[![Top Langs](https://SeungSoo525.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)](https://github.com/SeungSoo525/SeungSoo525)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungSoo525&layout=compact)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
