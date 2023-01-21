@@ -26,7 +26,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact">
 
