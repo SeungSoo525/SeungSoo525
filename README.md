@@ -1,13 +1,13 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1052968210678423552/1065987022457688064/2afa1da2e65724b0.png"  width="500" height="200"></p>
 
-### About me
-<hr/>
+## About me
+
 - 리스트 1
 - 리스트 2
 - 리스트 3
 
-### Skills:
-<hr/>
+## Skills:
+
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-F37C20.svg?style=for-the-badge&logoColor=white)
@@ -26,7 +26,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-### Stats
+## Stats
 
 <table>
   <thead>
@@ -41,7 +41,7 @@
   </thead>
 </table>
 
-### Top Repositories
+## Top Repositories
 
 <table>
   <thead>
