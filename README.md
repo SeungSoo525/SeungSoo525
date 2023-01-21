@@ -45,6 +45,8 @@
   </thead>
 </table>
 
+## Stats
+
 <table>
   <thead>
     <tr>
