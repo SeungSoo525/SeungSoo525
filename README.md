@@ -30,12 +30,10 @@
   <thead>
     <tr>
       <th>
-        <img align='center' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent"
-        hide_border=true" style="max-width: 100%;">
+        <img align='center' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent&hide_border=true" style="max-width: 100%; max-height: 100%;">
       </th>
       <th>
-        <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact"
-        hide_border=true" style="max-width: 100%;">
+        <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact&hide_border=true" style="max-width: 100%; max-height: 100%;">
       </th>
     </tr>
   </thead>
