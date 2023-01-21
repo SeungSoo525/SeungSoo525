@@ -3,8 +3,7 @@
 ## About me
 
 - 💻 Software student at <a href="https://sunrint.sen.hs.kr/" target="blank">Sunrin Internet High School</a>
-- 리스트 2
-- 리스트 3
+- ❤  I love Android Dev!
 
 ## Skills:
 
