@@ -2,7 +2,7 @@
 
 ## About me
 
-- 리스트 1
+- 💻 Software student at Sunrin Internet High School
 - 리스트 2
 - 리스트 3
 
