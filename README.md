@@ -39,6 +39,13 @@
       </th>
     </tr>
   </thead>
+  <hbody>
+    <tr>
+      <th>
+        <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525&hide_border=true" style="max-width: 100%; max-height: 100%;">
+      </th>
+    </tr>
+  </hbody>
 </table>
 
 ## Top Repositories
@@ -58,14 +65,6 @@
       </th>
     </tr>
   </thead>
-
-  <hbody>
-    <tr>
-      <th>
-        <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
-      </th>
-    </tr>
-  </hbody>
 </table>
 
 <!--
