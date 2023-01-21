@@ -26,19 +26,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-<table>
-  <thead>
-    <tr>
-      <th>
-        <img align='center' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent&hide_border=true" style="max-width: 100%; max-height: 100%;">
-      </th>
-      <th>
-        <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact&hide_border=true" style="max-width: 100%; max-height: 100%;">
-      </th>
-    </tr>
-  </thead>
-</table>
-
 ## Top Repositories
 
 <table>
@@ -53,6 +40,19 @@
         <a href="https://github.com/seungsoo525/EDCAN_PROJECT_SHAREFORM">
           <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=seungsoo525&repo=EDCAN_PROJECT_SHAREFORM&theme=buefy&hide_border=true" style="max-width: 100%; max-height: 100%;">
         </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img align='center' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent&hide_border=true" style="max-width: 100%; max-height: 100%;">
+      </th>
+      <th>
+        <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact&hide_border=true" style="max-width: 100%; max-height: 100%;">
       </th>
     </tr>
   </thead>
