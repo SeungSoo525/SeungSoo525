@@ -1,5 +1,3 @@
-# Hɪ I'ᴍ Sᴇᴜɴɢsᴏᴏ
-
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1052968210678423552/1065987022457688064/2afa1da2e65724b0.png"  width="500" height="200"></p>
 
 ## About me
@@ -29,3 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact">(https://github.com/seungsoo525/github-readme-stats)
+
