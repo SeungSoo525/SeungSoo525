@@ -26,8 +26,21 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact">
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img align='center' src="https://github-readme-stats.vercel.app/api?username=seungsoo525&show_icons=true&theme=transparent"
+        hide_border=true" style="max-width: 100%;">
+      </th>
+      <th>
+        <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact"
+        hide_border=true" style="max-width: 100%;">
+      </th>
+    </tr>
+  </thead>
+</table>
 
-
+<!--
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsoo525">
+-->
