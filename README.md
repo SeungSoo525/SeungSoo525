@@ -34,9 +34,8 @@ Tools and Technologies:
 
 <!--[![SSS's github stats](https://github-readme-stats.vercel.app/api?username=seungsoo525)](https://github.com/seungsoo525/github-readme-stats)
 -->
-<a href="https://github.com/seungsoo525/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=seungsoo525&repo=github-readme-stats" />
-</a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=seungsoo525&repo=github-readme-stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsoo525&layout=compact)](https://github.com/seungsoo525/github-readme-stats)
 
