@@ -52,7 +52,7 @@
       </th>
       <th>
         <a href="https://github.com/seungsoo525/EDCAN_PROJECT_SHAREFORM">
-          <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=seungsoo525&repo=EDCAN_PROJECT_SHAREFORM&theme=buefy&hide_border=true" style="max-width: 100%; max-height: 100%;">
+          <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=seungsoo525&repo=EdcanVacation_SHAREFORM&theme=buefy&hide_border=true" style="max-width: 100%; max-height: 100%;">
         </a>
       </th>
     </tr>
